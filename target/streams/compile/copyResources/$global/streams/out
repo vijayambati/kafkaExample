@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/vijayambati/vijayws/play-rest-api/conf/application.conf,/Users/vijayambati/vijayws/play-rest-api/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/vijayambati/vijayws/play-rest-api/conf/generated.keystore,/Users/vijayambati/vijayws/play-rest-api/target/scala-2.11/classes/generated.keystore)[0m
+[0m[[0mdebug[0m] [0m	(/Users/vijayambati/vijayws/play-rest-api/conf/logback.xml,/Users/vijayambati/vijayws/play-rest-api/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/vijayambati/vijayws/play-rest-api/conf/routes,/Users/vijayambati/vijayws/play-rest-api/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/vijayambati/vijayws/play-rest-api/conf/secure.conf,/Users/vijayambati/vijayws/play-rest-api/target/scala-2.11/classes/secure.conf)[0m
